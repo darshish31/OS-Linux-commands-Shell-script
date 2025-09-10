@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-# NAME - NAUSHEEN FATHIMA A 
-# REG NO - 212224230179
+# NAME - DARSHINI B
+# REG NO - 212224230051
 
 # AIM:
 To practice Linux Commands and Shell Scripting
